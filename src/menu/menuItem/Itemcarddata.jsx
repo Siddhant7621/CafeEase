@@ -4,7 +4,7 @@ const ItemcardData ={
         id : 1,
         title : 'Chole-Chawal',
         price : 40,
-        info : 'Lorem ipsum dolor sit amet.',
+        info : 'Lorem.',
         imgsrc : '/images/cholechawal.jpg' ,
     },
     {
